@@ -6,3 +6,9 @@
 body {
     background-color: rgb(203, 223, 241);
 }
+
+.peaches {
+    width: 400px;
+    height: 400px;
+    object-fit: cover;
+}
